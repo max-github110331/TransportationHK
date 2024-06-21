@@ -1,2 +1,2 @@
 # TransportationHK
-Sorry! We are still mkaing this python package. Please try again later!
+Sorry! TransportationHK is coming soon!
