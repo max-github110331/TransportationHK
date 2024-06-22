@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: TransportationHK
+Version: 0.0.0b1
+Summary: The python package(pypi) about Hong Kong's transportation.
+Home-page: https://github.com/max-github110331/TransportationHK/
+Author: MaxPython110331
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+
+# TransportationHK
+TransportationHK is a python package(pypi) for Hong Kong Transport System, such as KMB, CityBus and MTR .
+However, we are still developing this project so I only support KMB(LWB) data(Route, Stop and ETA).
+Give us a star to support this project! Thank you very much.
+
+## How to install?
+Open your shell and enter `pip install TransportationHK`
+
+## KMB (LWB)
+[Click Me](https://github.com/max-github110331/TransportationHK/KMB/README.md)
